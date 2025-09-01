@@ -1,0 +1,11 @@
+# 3rd Question
+
+(This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.)
+
+This is the third question for the front-end interview challenge.
+Open a terminal on the root folder and run:
+
+```bash
+npm i
+npm run dev
+```
