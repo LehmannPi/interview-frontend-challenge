@@ -9,3 +9,5 @@ Open a terminal on the root folder and run:
 bun i
 bun run dev
 ```
+
+And access [http://localhost:5173/](http://localhost:5173/)

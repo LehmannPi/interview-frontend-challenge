@@ -9,3 +9,5 @@ Open a terminal on the root folder and run:
 npm i
 npm run dev
 ```
+
+And access [http://localhost:5173/](http://localhost:5173/)
